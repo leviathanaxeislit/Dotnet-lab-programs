@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Visual Studio 2008\Projects\BankInterestService\BankInterestService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\BankInterestService\BankInterestService\bin\BankInterestService.dll
+C:\Users\user\Documents\Visual Studio 2008\Projects\BankInterestService\BankInterestService\bin\BankInterestService.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\BankInterestService\BankInterestService\obj\Debug\BankInterestService.dll
+C:\Users\user\Documents\Visual Studio 2008\Projects\BankInterestService\BankInterestService\obj\Debug\BankInterestService.pdb
+D:\C# lab\c#\BankInterestService\BankInterestService\bin\BankInterestService.dll
+D:\C# lab\c#\BankInterestService\BankInterestService\bin\BankInterestService.pdb
+D:\C# lab\c#\BankInterestService\BankInterestService\obj\Debug\ResolveAssemblyReference.cache
+D:\C# lab\c#\BankInterestService\BankInterestService\obj\Debug\BankInterestService.dll
+D:\C# lab\c#\BankInterestService\BankInterestService\obj\Debug\BankInterestService.pdb

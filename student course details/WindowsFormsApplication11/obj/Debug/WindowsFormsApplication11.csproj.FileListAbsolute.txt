@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Visual Studio 2008\Projects\student course details\WindowsFormsApplication11\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\student course details\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\student course details\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2008\Projects\student course details\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\student course details\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\student course details\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\student course details\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\student course details\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+D:\C# lab\c#\student course details\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+D:\C# lab\c#\student course details\WindowsFormsApplication11\obj\Debug\ResolveAssemblyReference.cache
+D:\C# lab\c#\student course details\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+D:\C# lab\c#\student course details\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+D:\C# lab\c#\student course details\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+D:\C# lab\c#\student course details\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+D:\C# lab\c#\student course details\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+D:\C# lab\c#\student course details\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
