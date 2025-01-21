@@ -1,9 +1,0 @@
-D:\C# lab\c#\student details\WindowsFormsApplication13\obj\Debug\ResolveAssemblyReference.cache
-D:\C# lab\c#\student details\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form1.resources
-D:\C# lab\c#\student details\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form2.resources
-D:\C# lab\c#\student details\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Properties.Resources.resources
-D:\C# lab\c#\student details\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
-D:\C# lab\c#\student details\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
-D:\C# lab\c#\student details\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
-D:\C# lab\c#\student details\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
-D:\C# lab\c#\student details\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb
